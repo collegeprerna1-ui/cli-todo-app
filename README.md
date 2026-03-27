@@ -12,11 +12,3 @@ A simple command-line To-Do application built using Python.
 ## ▶️ How to Run
 ```bash
 python to-do-list-app.py
-
-💡 Tech Used
-Python
-JSON
-File Handling
-📌 Author
-
-Prerna Patil
